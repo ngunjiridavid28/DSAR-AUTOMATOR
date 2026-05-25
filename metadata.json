@@ -1,0 +1,6 @@
+{
+  "name": "DSAR Automator",
+  "description": "A privacy compliance automation platform for GDPR/CCPA data requests in Supabase and Firebase ecosystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
